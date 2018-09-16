@@ -80,5 +80,5 @@ theme: landscape
 deploy:
   type: git
   repo:
-    github: git@github.com:ijcad/ijcad.github.io.git
+    github: git@work.github.com:ijcad/ijcad.github.io.git
   branch: master
